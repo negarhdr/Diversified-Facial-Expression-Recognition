@@ -91,8 +91,8 @@ To be updated soon
 
 # Acknowledgements
 This work received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 871449 (OpenDR). This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
-![Image OpenDR Project](https://github.com/negarhdr/Diversified-Facial-Expression-Recognition/opendr_logo.png) 
-![Image OpenDR Project](https://github.com/negarhdr/Diversified-Facial-Expression-Recognition/eu_logo.png) 
+![Image OpenDR Project](https://github.com/negarhdr/Diversified-Facial-Expression-Recognition/blob/main/opendr_logo.png) 
+![Image OpenDR Project](https://github.com/negarhdr/Diversified-Facial-Expression-Recognition/blob/main/eu_logo.png) 
 
 
 # References 
@@ -106,7 +106,6 @@ This work received funding from the European Union’s Horizon 2020 research and
 
 <a id="3">[3]</a> 
 [Mollahosseini, Ali, Behzad Hasani, and Mohammad H. Mahoor. "Affectnet: A database for facial expression, valence, and arousal computing in the wild." IEEE Transactions on Affective Computing 10.1 (2017): 18-31.](https://ieeexplore.ieee.org/abstract/document/8013713?casa_token=jNjpOPFaoGAAAAAA:_sI3UC3TdaFj2JHMZfrvlVev-DIwWHCOekhgF-IZ1I-nklm8DT1-KoW7kutALHbRLOQiPac)
-
 
 <a id="4">[4]</a> 
 [Barsoum, Emad, et al. "Training deep networks for facial expression recognition with crowd-sourced label distribution." Proceedings of the 18th ACM International Conference on Multimodal Interaction. 2016.](https://dl.acm.org/doi/abs/10.1145/2993148.2993165?casa_token=TKDVV7lRdP8AAAAA:Oik4YYGDt-L-_TBSUZFHfv2buvXkFLqlxqv3qXBFyutJk9Gsrdw3o2DSCQG5gunJ9w7QKB_fQg)

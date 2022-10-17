@@ -94,8 +94,7 @@ To be updated soon
 
 This work received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 871449 (OpenDR). This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
 
-
-
+This work received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 871449 (OpenDR). This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
 
 # References 
 

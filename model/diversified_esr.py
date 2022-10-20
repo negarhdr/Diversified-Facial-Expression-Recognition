@@ -96,9 +96,6 @@ class ConvolutionalBranch(nn.Module):
         # Second last, fully-connected layer related to discrete emotion labels
         self.fc = nn.Linear(512, 8)
 
-        # Last, fully-connected layer related to continuous affect levels (arousal and valence)
-        self.fc_dimensional = nn.Linear(8, 2)
-
         # Max-pooling layer
         self.pool = nn.MaxPool2d(2, 2)
 

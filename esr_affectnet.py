@@ -253,7 +253,7 @@ def main(args):
                     div_sp = criterion_div(attn_sp, type='spatial').det_div
                     loss += div_sp
                     # channel diversity
-                    div_ch = criterion_div(attn_sp, type='channel').det_div
+                    div_ch = criterion_div(attn_ch, type='channel').det_div
                     loss += div_ch
 
                 # Backward
